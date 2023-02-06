@@ -1,0 +1,140 @@
+put,Emma Bates,3
+put,Emma Bates,4
+put,Emma Bates,4
+put,Emma Bates,8
+put,Bertha Harris,10
+put,Anna Adams,7
+put,Emma Bates,3
+put,Grace Roth,5
+put,Emma Bates,1
+put,Bertha Harris,6
+getScore,Emma Bates
+getRank,Grace Roth
+higherThan,5
+lowerThan,7
+top,2
+bottom,2
+numContestants
+max
+get,2
+put,Annie Jackson,1
+put,Annie Jackson,6
+put,Annie Jackson,7
+put,Bessie van Ophem,3
+put,Bessie van Ophem,5
+put,Bessie van Ophem,2
+put,Annie Jackson,10
+put,Bessie van Ophem,6
+put,Annie Jackson,6
+put,Grace Roth,10
+getScore,Annie Jackson
+getRank,Grace Roth
+higherThan,10
+lowerThan,12
+top,3
+bottom,3
+numContestants
+max
+get,4
+put,Annie Jackson,1
+put,Elizabeth Carson,1
+put,Annie Jackson,3
+put,Annie Jackson,4
+put,Annie Jackson,7
+put,Elizabeth Carson,2
+put,Annie Jackson,2
+put,Annie Jackson,8
+put,Ella Lutz,7
+put,Cora Neilsen,2
+put,Laura Paquin,5
+put,Maude Turk,4
+put,Maude Turk,8
+put,Sarah Ingles,4
+put,Emma Bates,7
+put,Alice George,6
+put,Cora Neilsen,5
+put,Emma Bates,8
+put,Maude Turk,7
+put,Sarah Ingles,6
+getScore,Annie Jackson
+getRank,Sarah Ingles
+higherThan,15
+lowerThan,13
+top,4
+bottom,4
+numContestants
+max
+get,3
+put,Gertrude Xavier,3
+put,Emma Bates,6
+put,Gertrude Xavier,9
+put,Emma Bates,3
+put,Emma Bates,5
+put,Mabel Ulrich,8
+put,Bertha Harris,3
+put,Sarah Ingles,5
+put,Elizabeth Carson,2
+put,Nellie Quinn,5
+put,Carrie Statson,7
+put,Carrie Statson,5
+put,Cora Neilsen,8
+put,Cora Neilsen,5
+put,Ida Frank,7
+put,Carrie Statson,1
+put,Minnie Davidson,4
+put,Annie Jackson,7
+put,Annie Jackson,9
+put,Anna Adams,1
+getScore,Emma Bates
+getRank,Emma Bates
+higherThan,25
+lowerThan,25
+top,5
+bottom,5
+numContestants
+max
+put,Mary Smith,1
+put,Mary Smith,10
+put,Bertha Harris,9
+put,Laura Paquin,7
+put,Jennie Watts,7
+put,Grace Roth,4
+put,Mabel Ulrich,7
+put,Laura Paquin,5
+put,Gertrude Xavier,1
+put,Jennie Watts,5
+put,Bessie van Ophem,9
+put,Bessie van Ophem,10
+put,Bessie van Ophem,4
+put,Emma Bates,4
+put,Emma Bates,10
+put,Grace Roth,4
+put,Maude Turk,5
+put,Maude Turk,8
+put,Emma Bates,6
+put,Cora Neilsen,8
+getScore,Gertrude Xavier
+getRank,Bessie van Ophem
+higherThan,50
+lowerThan,50
+top,10
+bottom,10
+numContestants
+maxput,Emma Bates,5
+put,Mabel Ulrich,3
+put,Mabel Ulrich,8
+put,Emma Bates,10
+put,Emma Bates,6
+put,Mabel Ulrich,3
+put,Bessie van Ophem,9
+put,Cora Neilsen,10
+put,Annie Jackson,2
+put,Laura Paquin,3
+getScore,Bessie van Ophem
+getRank,Mabel Ulrich
+higherThan,15
+lowerThan,75
+top,7
+bottom,7
+numContestants
+max

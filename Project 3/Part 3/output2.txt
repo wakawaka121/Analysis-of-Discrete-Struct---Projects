@@ -1,0 +1,62 @@
+
+getScore,Minnie Davidson
+-1
+
+getScore,Sarah Ingles
+-1
+
+getScore,Alice George
+-1
+
+put,Alice George,6
+
+put,Alice George,2
+
+getScore,Alice George
+8
+
+put,Sarah Ingles,8
+
+put,Ida Frank,10
+
+getScore,Sarah Ingles
+8
+
+getScore,Bertha Harris
+-1
+
+getScore,Ida Frank
+10
+
+put,Sarah Ingles,7
+
+put,Sarah Ingles,4
+
+getScore,Anna Adams
+-1
+
+put,Sarah Ingles,8
+
+getScore,Sarah Ingles
+27
+
+put,Ida Frank,5
+
+getScore,Margaret Ellis
+-1
+
+getScore,Alice George
+8
+
+getScore,Margaret Ellis
+-1
+
+put,Alice George,9
+
+getScore,Margaret Ellis
+-1
+
+getScore,Alice George
+17
+
+put,Bertha Harris,1

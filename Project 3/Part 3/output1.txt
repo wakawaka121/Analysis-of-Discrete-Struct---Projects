@@ -1,0 +1,69 @@
+
+getScore,Carrie Statson
+-1
+
+put,Bessie van Ophem,5
+
+getScore,Bessie van Ophem
+5
+
+put,Minnie Davidson,2
+
+put,Ida Frank,7
+
+put,Ida Frank,5
+
+getScore,Minnie Davidson
+2
+
+getScore,Ida Frank
+12
+
+getScore,Minnie Davidson
+2
+
+put,Anna Adams,2
+
+getScore,Ida Frank
+12
+
+getScore,Anna Adams
+2
+
+getScore,Alice George
+-1
+
+getScore,Sarah Ingles
+-1
+
+getScore,Ida Frank
+12
+
+getScore,Emma Bates
+-1
+
+put,Sarah Ingles,10
+
+put,Sarah Ingles,7
+
+getScore,Sarah Ingles
+17
+
+put,Ida Frank,10
+
+getScore,Bertha Harris
+-1
+
+put,Sarah Ingles,4
+
+getScore,Mary Smith
+-1
+
+put,Sarah Ingles,2
+
+getScore,Minnie Davidson
+2
+
+put,Sarah Ingles,9
+
+put,Sarah Ingles,8

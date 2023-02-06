@@ -1,0 +1,2159 @@
+
+put,Lydia Larson,10
+
+put,Mabel Ulrich,3
+
+put,Julia Yoon,3
+
+put,Julia Yoon,10
+
+put,Lydia Larson,2
+
+put,Elizabeth Carson,2
+
+put,Helen Harper,2
+
+put,Lydia Larson,7
+
+put,Lydia Larson,9
+
+put,Elizabeth Carson,9
+
+put,Elizabeth Carson,5
+
+put,Mabel Ulrich,2
+
+put,Jane Greene,5
+
+put,Jane Greene,4
+
+put,Amanda Darrell,3
+
+put,Harriet Yi,7
+
+put,Julia Yoon,5
+
+put,Jane Greene,5
+
+put,Harriet Yi,10
+
+put,Fannie Jepson,5
+
+put,Rebecca Charles,7
+
+put,Jane Greene,6
+
+put,May Rice,8
+
+put,Fannie Jepson,2
+
+put,Alice George,10
+
+getScore,Lydia Larson
+28
+
+getRank,Lydia Larson
+4
+
+higherThan,10
+Elizabeth Carson: 16
+
+lowerThan,10
+Helen Harper: 2
+Amanda Darrell: 3
+Mabel Ulrich: 5
+Fannie Jepson: 7
+May Rice: 8
+Alice George: 10
+
+top,3
+Rebecca Charles: 7
+Elizabeth Carson: 16
+Jane Greene: 20
+
+bottom,2
+Helen Harper: 2
+Mabel Ulrich: 5
+
+numContestants
+12
+
+max
+Elizabeth Carson: 16
+
+put,Annie Jackson,5
+
+put,Annie Jackson,4
+
+put,Fannie Jepson,6
+
+put,Minnie Davidson,5
+
+put,Annie Jackson,9
+
+put,Nellie Quinn,5
+
+put,Nellie Quinn,9
+
+put,Annie Jackson,9
+
+put,Annie Jackson,7
+
+put,Nellie Quinn,7
+
+put,Fannie Jepson,8
+
+put,Minnie Davidson,7
+
+put,Jane Greene,9
+
+put,Nellie Quinn,1
+
+put,Kate Moss,7
+
+put,Annie Jackson,9
+
+put,Josephine Harrison,2
+
+put,Harriet Yi,6
+
+put,Nettie House,1
+
+put,Nellie Quinn,9
+
+put,Minnie Davidson,4
+
+put,Harriet Yi,3
+
+put,Jane Greene,6
+
+put,Josephine Harrison,5
+
+put,Flora Gogan,10
+
+put,May Rice,4
+
+put,May Rice,6
+
+put,May Rice,5
+
+put,Eliza Doolittle,1
+
+put,Eliza Doolittle,3
+
+put,Susie Nimly,8
+
+put,Susie Nimly,8
+
+put,Mae Ulroy,10
+
+put,Ella Lutz,6
+
+put,Mae Ulroy,2
+
+put,Mae Ulroy,4
+
+put,Nancy Norman,1
+
+put,May Rice,10
+
+put,Amanda Darrell,1
+
+put,Nancy Norman,3
+
+put,Mae Ulroy,4
+
+put,Mae Ulroy,1
+
+put,Mae Ulroy,3
+
+put,Clara Kendrick,5
+
+put,Eliza Doolittle,4
+
+put,Nancy Norman,8
+
+put,Hannah Moss,3
+
+put,Jennie Watts,10
+
+put,Clara Kendrick,6
+
+put,Virginia Green,9
+
+getScore,Eliza Doolittle
+8
+
+getRank,Nancy Norman
+3
+
+higherThan,15
+Nellie Quinn: 31
+
+lowerThan,15
+Nettie House: 1
+Helen Harper: 2
+Hannah Moss: 3
+Amanda Darrell: 4
+Mabel Ulrich: 5
+Ella Lutz: 6
+Josephine Harrison: 7
+Kate Moss: 7
+Rebecca Charles: 7
+Eliza Doolittle: 8
+Virginia Green: 9
+Alice George: 10
+Flora Gogan: 10
+Jennie Watts: 10
+
+top,5
+Clara Kendrick: 11
+Nancy Norman: 12
+Julia Yoon: 18
+Mae Ulroy: 24
+Nellie Quinn: 31
+
+bottom,5
+Nettie House: 1
+Helen Harper: 2
+Hannah Moss: 3
+Mabel Ulrich: 5
+Ella Lutz: 6
+
+numContestants
+28
+
+max
+Nellie Quinn: 31
+
+put,Ethel Jones,8
+
+put,Anna Adams,8
+
+put,Ethel Jones,4
+
+put,Ethel Jones,1
+
+put,Anna Adams,4
+
+put,Lena Dunn,10
+
+put,Anna Adams,9
+
+put,Ethel Jones,6
+
+put,Lena Dunn,5
+
+put,Lena Dunn,3
+
+put,Jane Greene,3
+
+put,Blanche Jones,6
+
+put,Lena Dunn,5
+
+put,Jennie Watts,4
+
+put,Anna Adams,6
+
+put,Susan Royale,10
+
+put,Susan Royale,7
+
+put,Blanche Jones,7
+
+put,Blanche Jones,9
+
+put,Maggie Damer,5
+
+put,Jane Greene,4
+
+put,Florence Mann,4
+
+put,Susie Nimly,4
+
+put,Blanche Jones,4
+
+put,Susie Nimly,3
+
+getScore,Susie Nimly
+23
+
+getRank,Susie Nimly
+1
+
+higherThan,20
+Susie Nimly: 23
+Blanche Jones: 26
+Anna Adams: 27
+Jane Greene: 42
+
+lowerThan,15
+Nettie House: 1
+Helen Harper: 2
+Hannah Moss: 3
+Amanda Darrell: 4
+Florence Mann: 4
+Mabel Ulrich: 5
+Ella Lutz: 6
+Josephine Harrison: 7
+Kate Moss: 7
+Eliza Doolittle: 8
+Virginia Green: 9
+Alice George: 10
+Flora Gogan: 10
+Clara Kendrick: 11
+Jennie Watts: 14
+
+top,7
+Minnie Davidson: 16
+Susie Nimly: 23
+Blanche Jones: 26
+Anna Adams: 27
+Lydia Larson: 28
+Jane Greene: 42
+Annie Jackson: 43
+
+bottom,7
+Nettie House: 1
+Helen Harper: 2
+Hannah Moss: 3
+Amanda Darrell: 4
+Florence Mann: 4
+Ella Lutz: 6
+Virginia Green: 9
+
+numContestants
+35
+
+max
+Susie Nimly: 23
+
+put,Ida Frank,6
+
+put,Carrie Statson,4
+
+put,Lula Kravitz,9
+
+put,Ruth Santiago,4
+
+put,Lula Kravitz,9
+
+put,Pearl Potter,3
+
+put,Lula Kravitz,4
+
+put,Sadie Gonzalez,4
+
+put,Sarah Ingles,3
+
+put,Katherine Henderson,7
+
+put,Edith Arthur,3
+
+put,Effie Quinley,10
+
+put,Lillie Giggs,8
+
+put,Georgia Peach,9
+
+put,Effie Quinley,3
+
+put,Georgia Peach,3
+
+put,Virginia Green,1
+
+put,Ruth Santiago,8
+
+put,Fannie Jepson,5
+
+put,Emma Bates,8
+
+put,Rose Christenson,3
+
+put,Lillie Giggs,6
+
+put,Rose Christenson,10
+
+put,Sadie Gonzalez,2
+
+put,Jessie Ivan,3
+
+getScore,Georgia Peach
+12
+
+getRank,Lillie Giggs
+5
+
+higherThan,50
+
+lowerThan,50
+Nettie House: 1
+Helen Harper: 2
+Edith Arthur: 3
+Hannah Moss: 3
+Jessie Ivan: 3
+Pearl Potter: 3
+Sarah Ingles: 3
+Amanda Darrell: 4
+Carrie Statson: 4
+Florence Mann: 4
+Mabel Ulrich: 5
+Maggie Damer: 5
+Ella Lutz: 6
+Ida Frank: 6
+Sadie Gonzalez: 6
+Josephine Harrison: 7
+Kate Moss: 7
+Katherine Henderson: 7
+Rebecca Charles: 7
+Eliza Doolittle: 8
+Emma Bates: 8
+Alice George: 10
+Flora Gogan: 10
+Virginia Green: 10
+Clara Kendrick: 11
+Georgia Peach: 12
+Nancy Norman: 12
+Ruth Santiago: 12
+Effie Quinley: 13
+Rose Christenson: 13
+Jennie Watts: 14
+Lillie Giggs: 14
+Elizabeth Carson: 16
+Minnie Davidson: 16
+Susan Royale: 17
+Julia Yoon: 18
+Ethel Jones: 19
+Lula Kravitz: 22
+Lena Dunn: 23
+Susie Nimly: 23
+Mae Ulroy: 24
+Blanche Jones: 26
+Fannie Jepson: 26
+Harriet Yi: 26
+Anna Adams: 27
+Lydia Larson: 28
+Nellie Quinn: 31
+May Rice: 33
+Jane Greene: 42
+Annie Jackson: 43
+
+top,10
+Kate Moss: 7
+Rebecca Charles: 7
+Nancy Norman: 12
+Effie Quinley: 13
+Rose Christenson: 13
+Lillie Giggs: 14
+Elizabeth Carson: 16
+Mae Ulroy: 24
+Fannie Jepson: 26
+May Rice: 33
+
+bottom,10
+Nettie House: 1
+Helen Harper: 2
+Edith Arthur: 3
+Hannah Moss: 3
+Jessie Ivan: 3
+Sarah Ingles: 3
+Carrie Statson: 4
+Florence Mann: 4
+Mabel Ulrich: 5
+Flora Gogan: 10
+
+numContestants
+50
+
+max
+Nancy Norman: 12
+
+put,Mamie Hobson,3
+
+put,Mamie Hobson,4
+
+put,Josephine Harrison,1
+
+put,Ruth Santiago,3
+
+put,Ruth Santiago,4
+
+put,Josephine Harrison,5
+
+put,Ella Lutz,9
+
+put,Carrie Statson,4
+
+put,Mollie King,6
+
+put,Effie Quinley,5
+
+put,Ella Lutz,2
+
+put,Ella Lutz,4
+
+put,Cora Neilsen,9
+
+put,Ruth Santiago,7
+
+put,Margaret Ellis,5
+
+put,Josephine Harrison,1
+
+put,Rebecca Charles,1
+
+put,Helen Harper,6
+
+put,Edna Arvitz,3
+
+put,Edith Arthur,3
+
+put,Mollie King,3
+
+put,Lucy Potts,10
+
+put,Edith Arthur,2
+
+put,Edna Arvitz,4
+
+put,Maud Kant,5
+
+getScore,Lula Kravitz
+22
+
+getRank,Ruth Santiago
+7
+
+higherThan,75
+
+lowerThan,75
+Nettie House: 1
+Hannah Moss: 3
+Jessie Ivan: 3
+Pearl Potter: 3
+Sarah Ingles: 3
+Amanda Darrell: 4
+Florence Mann: 4
+Mabel Ulrich: 5
+Maggie Damer: 5
+Margaret Ellis: 5
+Maud Kant: 5
+Ida Frank: 6
+Sadie Gonzalez: 6
+Edna Arvitz: 7
+Kate Moss: 7
+Katherine Henderson: 7
+Mamie Hobson: 7
+Carrie Statson: 8
+Edith Arthur: 8
+Eliza Doolittle: 8
+Emma Bates: 8
+Helen Harper: 8
+Rebecca Charles: 8
+Cora Neilsen: 9
+Mollie King: 9
+Alice George: 10
+Flora Gogan: 10
+Lucy Potts: 10
+Virginia Green: 10
+Clara Kendrick: 11
+Georgia Peach: 12
+Nancy Norman: 12
+Rose Christenson: 13
+Jennie Watts: 14
+Josephine Harrison: 14
+Lillie Giggs: 14
+Elizabeth Carson: 16
+Minnie Davidson: 16
+Susan Royale: 17
+Effie Quinley: 18
+Julia Yoon: 18
+Ethel Jones: 19
+Ella Lutz: 21
+Lula Kravitz: 22
+Lena Dunn: 23
+Susie Nimly: 23
+Mae Ulroy: 24
+Blanche Jones: 26
+Fannie Jepson: 26
+Harriet Yi: 26
+Ruth Santiago: 26
+Anna Adams: 27
+Lydia Larson: 28
+Nellie Quinn: 31
+May Rice: 33
+Jane Greene: 42
+Annie Jackson: 43
+
+top,10
+Carrie Statson: 8
+Mollie King: 9
+Flora Gogan: 10
+Lucy Potts: 10
+Georgia Peach: 12
+Nancy Norman: 12
+Rose Christenson: 13
+Ella Lutz: 21
+Mae Ulroy: 24
+Ruth Santiago: 26
+
+bottom,10
+Nettie House: 1
+Hannah Moss: 3
+Jessie Ivan: 3
+Pearl Potter: 3
+Sarah Ingles: 3
+Florence Mann: 4
+Mabel Ulrich: 5
+Maud Kant: 5
+Ida Frank: 6
+Kate Moss: 7
+
+numContestants
+57
+
+max
+Flora Gogan: 10
+Lucy Potts: 10
+
+put,Flora Gogan,5
+
+put,Ethel Jones,9
+
+put,Ethel Jones,5
+
+put,Mabel Ulrich,6
+
+put,Flora Gogan,9
+
+put,Mattie Briggs,3
+
+put,Lucy Potts,1
+
+put,Jennie Watts,3
+
+put,Mattie Briggs,1
+
+put,Florence Mann,1
+
+put,Mattie Briggs,6
+
+put,Della Thomas,5
+
+put,Mattie Briggs,8
+
+put,Etta O'Connor,6
+
+put,Frances Nunn,4
+
+put,Edith Arthur,2
+
+put,Frances Nunn,8
+
+put,Flora Gogan,10
+
+put,Emma Bates,1
+
+put,Flora Gogan,4
+
+put,Jennie Watts,10
+
+put,Frances Nunn,3
+
+put,Della Thomas,8
+
+put,Mollie King,1
+
+put,Edith Arthur,3
+
+getScore,Mollie King
+10
+
+getRank,Flora Gogan
+2
+
+higherThan,100
+
+lowerThan,100
+Nettie House: 1
+Hannah Moss: 3
+Jessie Ivan: 3
+Pearl Potter: 3
+Sarah Ingles: 3
+Amanda Darrell: 4
+Florence Mann: 5
+Maggie Damer: 5
+Margaret Ellis: 5
+Maud Kant: 5
+Etta O'Connor: 6
+Ida Frank: 6
+Sadie Gonzalez: 6
+Edna Arvitz: 7
+Kate Moss: 7
+Katherine Henderson: 7
+Mamie Hobson: 7
+Carrie Statson: 8
+Eliza Doolittle: 8
+Helen Harper: 8
+Rebecca Charles: 8
+Cora Neilsen: 9
+Emma Bates: 9
+Alice George: 10
+Mollie King: 10
+Virginia Green: 10
+Clara Kendrick: 11
+Lucy Potts: 11
+Mabel Ulrich: 11
+Georgia Peach: 12
+Nancy Norman: 12
+Della Thomas: 13
+Edith Arthur: 13
+Rose Christenson: 13
+Josephine Harrison: 14
+Lillie Giggs: 14
+Frances Nunn: 15
+Elizabeth Carson: 16
+Minnie Davidson: 16
+Susan Royale: 17
+Effie Quinley: 18
+Julia Yoon: 18
+Mattie Briggs: 18
+Ella Lutz: 21
+Lula Kravitz: 22
+Lena Dunn: 23
+Susie Nimly: 23
+Mae Ulroy: 24
+Blanche Jones: 26
+Fannie Jepson: 26
+Harriet Yi: 26
+Ruth Santiago: 26
+Anna Adams: 27
+Jennie Watts: 27
+Lydia Larson: 28
+Nellie Quinn: 31
+Ethel Jones: 33
+May Rice: 33
+Flora Gogan: 38
+Jane Greene: 42
+Annie Jackson: 43
+
+top,10
+Georgia Peach: 12
+Della Thomas: 13
+Edith Arthur: 13
+Frances Nunn: 15
+Mattie Briggs: 18
+Ella Lutz: 21
+Ruth Santiago: 26
+Jennie Watts: 27
+Lydia Larson: 28
+Annie Jackson: 43
+
+bottom,10
+Nettie House: 1
+Hannah Moss: 3
+Jessie Ivan: 3
+Pearl Potter: 3
+Sarah Ingles: 3
+Florence Mann: 5
+Maggie Damer: 5
+Ida Frank: 6
+Kate Moss: 7
+Susan Royale: 17
+
+numContestants
+61
+
+max
+Edith Arthur: 13
+
+put,Katie Andersen,3
+
+put,Katie Andersen,6
+
+put,Katie Andersen,9
+
+put,Helen Harper,6
+
+put,Katie Andersen,9
+
+put,Alice George,6
+
+put,Katherine Henderson,8
+
+put,Helen Harper,2
+
+put,Mae Ulroy,5
+
+put,Sadie Gonzalez,5
+
+put,Mabel Ulrich,5
+
+put,Katherine Henderson,3
+
+put,Nettie House,8
+
+put,Dora Morley,8
+
+put,Mabel Ulrich,1
+
+put,Virginia Green,1
+
+put,Nannie Never,3
+
+put,Nannie Never,2
+
+put,Mabel Ulrich,2
+
+put,Nora Simpson,2
+
+put,Helen Harper,2
+
+put,Helen Harper,7
+
+put,Virginia Green,2
+
+put,Mabel Ulrich,8
+
+put,Flora Gogan,1
+
+getScore,Georgia Peach
+12
+
+getRank,Lillie Giggs
+5
+
+higherThan,50
+
+lowerThan,50
+Nora Simpson: 2
+Hannah Moss: 3
+Jessie Ivan: 3
+Pearl Potter: 3
+Sarah Ingles: 3
+Amanda Darrell: 4
+Florence Mann: 5
+Maggie Damer: 5
+Margaret Ellis: 5
+Maud Kant: 5
+Nannie Never: 5
+Etta O'Connor: 6
+Ida Frank: 6
+Edna Arvitz: 7
+Kate Moss: 7
+Mamie Hobson: 7
+Carrie Statson: 8
+Dora Morley: 8
+Eliza Doolittle: 8
+Rebecca Charles: 8
+Cora Neilsen: 9
+Emma Bates: 9
+Nettie House: 9
+Mollie King: 10
+Clara Kendrick: 11
+Lucy Potts: 11
+Sadie Gonzalez: 11
+Georgia Peach: 12
+Nancy Norman: 12
+Della Thomas: 13
+Edith Arthur: 13
+Rose Christenson: 13
+Virginia Green: 13
+Josephine Harrison: 14
+Lillie Giggs: 14
+Frances Nunn: 15
+Alice George: 16
+Elizabeth Carson: 16
+Minnie Davidson: 16
+Susan Royale: 17
+Effie Quinley: 18
+Julia Yoon: 18
+Katherine Henderson: 18
+Mattie Briggs: 18
+Ella Lutz: 21
+Lula Kravitz: 22
+Lena Dunn: 23
+Susie Nimly: 23
+Helen Harper: 25
+Blanche Jones: 26
+Fannie Jepson: 26
+Harriet Yi: 26
+Ruth Santiago: 26
+Anna Adams: 27
+Jennie Watts: 27
+Katie Andersen: 27
+Mabel Ulrich: 27
+Lydia Larson: 28
+Mae Ulroy: 29
+Nellie Quinn: 31
+Ethel Jones: 33
+May Rice: 33
+Flora Gogan: 39
+Jane Greene: 42
+Annie Jackson: 43
+
+top,10
+Sadie Gonzalez: 11
+Edith Arthur: 13
+Frances Nunn: 15
+Mattie Briggs: 18
+Helen Harper: 25
+Blanche Jones: 26
+Jennie Watts: 27
+Lydia Larson: 28
+Flora Gogan: 39
+Annie Jackson: 43
+
+bottom,10
+Nora Simpson: 2
+Hannah Moss: 3
+Jessie Ivan: 3
+Pearl Potter: 3
+Sarah Ingles: 3
+Amanda Darrell: 4
+Florence Mann: 5
+Maggie Damer: 5
+Ida Frank: 6
+Kate Moss: 7
+
+numContestants
+65
+
+max
+Flora Gogan: 39
+
+put,Catherine Dudley,7
+
+put,Catherine Dudley,10
+
+put,Lydia Larson,4
+
+put,Lydia Larson,1
+
+put,Catherine Dudley,3
+
+put,Lydia Larson,2
+
+put,Lula Kravitz,5
+
+put,Lula Kravitz,5
+
+put,Nannie Never,4
+
+put,Grace Roth,1
+
+put,Catherine Dudley,7
+
+put,Lydia Larson,3
+
+put,Nannie Never,10
+
+put,Addie Eddison,9
+
+put,Nannie Never,9
+
+put,Nannie Never,6
+
+put,Nannie Never,10
+
+put,Elsie Peterson,3
+
+put,Dora Morley,8
+
+put,Florence Mann,6
+
+put,Lula Kravitz,10
+
+put,Emma Bates,5
+
+put,May Rice,5
+
+put,Emma Bates,5
+
+put,Clara Kendrick,10
+
+getScore,Emma Bates
+19
+
+getRank,Emma Bates
+4
+
+higherThan,100
+
+lowerThan,100
+Grace Roth: 1
+Nora Simpson: 2
+Elsie Peterson: 3
+Hannah Moss: 3
+Jessie Ivan: 3
+Pearl Potter: 3
+Sarah Ingles: 3
+Amanda Darrell: 4
+Maggie Damer: 5
+Margaret Ellis: 5
+Maud Kant: 5
+Etta O'Connor: 6
+Ida Frank: 6
+Edna Arvitz: 7
+Kate Moss: 7
+Mamie Hobson: 7
+Carrie Statson: 8
+Eliza Doolittle: 8
+Rebecca Charles: 8
+Addie Eddison: 9
+Cora Neilsen: 9
+Nettie House: 9
+Mollie King: 10
+Florence Mann: 11
+Lucy Potts: 11
+Sadie Gonzalez: 11
+Georgia Peach: 12
+Nancy Norman: 12
+Della Thomas: 13
+Edith Arthur: 13
+Rose Christenson: 13
+Virginia Green: 13
+Josephine Harrison: 14
+Lillie Giggs: 14
+Frances Nunn: 15
+Alice George: 16
+Dora Morley: 16
+Elizabeth Carson: 16
+Minnie Davidson: 16
+Susan Royale: 17
+Effie Quinley: 18
+Julia Yoon: 18
+Katherine Henderson: 18
+Mattie Briggs: 18
+Emma Bates: 19
+Clara Kendrick: 21
+Ella Lutz: 21
+Lena Dunn: 23
+Susie Nimly: 23
+Helen Harper: 25
+Blanche Jones: 26
+Fannie Jepson: 26
+Harriet Yi: 26
+Ruth Santiago: 26
+Anna Adams: 27
+Catherine Dudley: 27
+Jennie Watts: 27
+Katie Andersen: 27
+Mabel Ulrich: 27
+Mae Ulroy: 29
+Nellie Quinn: 31
+Ethel Jones: 33
+Lydia Larson: 38
+May Rice: 38
+Flora Gogan: 39
+Jane Greene: 42
+Lula Kravitz: 42
+Annie Jackson: 43
+Nannie Never: 44
+
+top,10
+Clara Kendrick: 21
+Susie Nimly: 23
+Helen Harper: 25
+Blanche Jones: 26
+Lydia Larson: 38
+Flora Gogan: 39
+Jane Greene: 42
+Lula Kravitz: 42
+Annie Jackson: 43
+Nannie Never: 44
+
+bottom,10
+Grace Roth: 1
+Nora Simpson: 2
+Elsie Peterson: 3
+Hannah Moss: 3
+Jessie Ivan: 3
+Sarah Ingles: 3
+Amanda Darrell: 4
+Maud Kant: 5
+Ida Frank: 6
+Kate Moss: 7
+
+numContestants
+69
+
+max
+Clara Kendrick: 21
+
+put,Edith Arthur,8
+
+put,Catherine Dudley,2
+
+put,Edith Arthur,6
+
+put,Margaret Ellis,2
+
+put,Mamie Hobson,1
+
+put,Alma Mater,10
+
+put,Mamie Hobson,8
+
+put,Catherine Dudley,3
+
+put,Annie Jackson,6
+
+put,Alma Mater,9
+
+put,Susan Royale,7
+
+put,Alma Mater,6
+
+put,Lucy Potts,9
+
+put,Nellie Quinn,1
+
+put,Rose Christenson,5
+
+put,Lucy Potts,2
+
+put,Lucy Potts,6
+
+put,Catherine Dudley,1
+
+put,Grace Roth,4
+
+put,Mary Smith,5
+
+put,Grace Roth,7
+
+put,Nellie Quinn,5
+
+put,Bessie van Ophem,2
+
+put,Alma Mater,9
+
+put,Viola Davis,4
+
+getScore,Emma Bates
+19
+
+getRank,Emma Bates
+4
+
+higherThan,100
+
+lowerThan,100
+Bessie van Ophem: 2
+Nora Simpson: 2
+Elsie Peterson: 3
+Hannah Moss: 3
+Jessie Ivan: 3
+Pearl Potter: 3
+Sarah Ingles: 3
+Amanda Darrell: 4
+Viola Davis: 4
+Maggie Damer: 5
+Mary Smith: 5
+Maud Kant: 5
+Etta O'Connor: 6
+Ida Frank: 6
+Edna Arvitz: 7
+Kate Moss: 7
+Margaret Ellis: 7
+Carrie Statson: 8
+Eliza Doolittle: 8
+Rebecca Charles: 8
+Addie Eddison: 9
+Cora Neilsen: 9
+Nettie House: 9
+Mollie King: 10
+Florence Mann: 11
+Sadie Gonzalez: 11
+Georgia Peach: 12
+Grace Roth: 12
+Nancy Norman: 12
+Della Thomas: 13
+Virginia Green: 13
+Josephine Harrison: 14
+Lillie Giggs: 14
+Frances Nunn: 15
+Alice George: 16
+Dora Morley: 16
+Elizabeth Carson: 16
+Mamie Hobson: 16
+Minnie Davidson: 16
+Effie Quinley: 18
+Julia Yoon: 18
+Katherine Henderson: 18
+Mattie Briggs: 18
+Rose Christenson: 18
+Emma Bates: 19
+Clara Kendrick: 21
+Ella Lutz: 21
+Lena Dunn: 23
+Susie Nimly: 23
+Susan Royale: 24
+Helen Harper: 25
+Blanche Jones: 26
+Fannie Jepson: 26
+Harriet Yi: 26
+Ruth Santiago: 26
+Anna Adams: 27
+Edith Arthur: 27
+Jennie Watts: 27
+Katie Andersen: 27
+Mabel Ulrich: 27
+Lucy Potts: 28
+Mae Ulroy: 29
+Catherine Dudley: 33
+Ethel Jones: 33
+Alma Mater: 34
+Nellie Quinn: 37
+Lydia Larson: 38
+May Rice: 38
+Flora Gogan: 39
+Jane Greene: 42
+Lula Kravitz: 42
+Nannie Never: 44
+Annie Jackson: 49
+
+top,10
+Addie Eddison: 9
+Rose Christenson: 18
+Blanche Jones: 26
+Ethel Jones: 33
+Alma Mater: 34
+Nellie Quinn: 37
+Lydia Larson: 38
+Flora Gogan: 39
+Jane Greene: 42
+Nannie Never: 44
+
+bottom,10
+Bessie van Ophem: 2
+Nora Simpson: 2
+Elsie Peterson: 3
+Hannah Moss: 3
+Jessie Ivan: 3
+Pearl Potter: 3
+Sarah Ingles: 3
+Amanda Darrell: 4
+Maud Kant: 5
+Kate Moss: 7
+
+numContestants
+73
+
+max
+Addie Eddison: 9
+
+put,Elsie Peterson,10
+
+put,Elsie Peterson,3
+
+put,Cora Neilsen,5
+
+put,Elsie Peterson,5
+
+put,Nancy Norman,3
+
+put,Ella Lutz,1
+
+put,Mae Ulroy,5
+
+put,Anna Adams,4
+
+put,Ella Lutz,3
+
+put,Mary Smith,4
+
+put,Lottie Parks,7
+
+put,Nancy Norman,2
+
+put,Anna Adams,9
+
+put,Mary Smith,8
+
+put,Eliza Doolittle,5
+
+put,Rebecca Charles,7
+
+put,Mollie King,9
+
+put,Nancy Norman,3
+
+put,Lottie Parks,6
+
+put,Mary Smith,7
+
+put,Mary Smith,2
+
+put,Ruth Santiago,10
+
+put,Rosa Yang,6
+
+put,Mae Ulroy,6
+
+put,Mary Smith,7
+
+put,Sarah Ingles,7
+
+put,Daisy Train,7
+
+put,Sarah Ingles,1
+
+put,Sarah Ingles,1
+
+put,Sarah Ingles,10
+
+put,Lillian Evans,4
+
+put,Daisy Train,2
+
+put,Lillian Evans,8
+
+put,Anna Adams,10
+
+put,Eliza Doolittle,4
+
+put,Lillian Evans,5
+
+put,Anna Adams,10
+
+put,Maud Kant,4
+
+put,Eliza Doolittle,8
+
+put,Lizzie Quartz,6
+
+put,Lizzie Quartz,5
+
+put,Minnie Davidson,3
+
+put,Daisy Train,3
+
+put,Susan Royale,9
+
+put,Carrie Statson,7
+
+put,Susie Nimly,1
+
+put,Anna Adams,5
+
+put,Julia Yoon,2
+
+put,Lizzie Quartz,2
+
+put,Carrie Statson,2
+
+getScore,Julia Yoon
+20
+
+getRank,Julia Yoon
+3
+
+higherThan,100
+
+lowerThan,100
+Bessie van Ophem: 2
+Nora Simpson: 2
+Hannah Moss: 3
+Jessie Ivan: 3
+Pearl Potter: 3
+Amanda Darrell: 4
+Viola Davis: 4
+Maggie Damer: 5
+Etta O'Connor: 6
+Ida Frank: 6
+Rosa Yang: 6
+Edna Arvitz: 7
+Kate Moss: 7
+Margaret Ellis: 7
+Addie Eddison: 9
+Maud Kant: 9
+Nettie House: 9
+Florence Mann: 11
+Sadie Gonzalez: 11
+Daisy Train: 12
+Georgia Peach: 12
+Grace Roth: 12
+Della Thomas: 13
+Lizzie Quartz: 13
+Lottie Parks: 13
+Virginia Green: 13
+Cora Neilsen: 14
+Josephine Harrison: 14
+Lillie Giggs: 14
+Frances Nunn: 15
+Rebecca Charles: 15
+Alice George: 16
+Dora Morley: 16
+Elizabeth Carson: 16
+Mamie Hobson: 16
+Carrie Statson: 17
+Lillian Evans: 17
+Effie Quinley: 18
+Katherine Henderson: 18
+Mattie Briggs: 18
+Rose Christenson: 18
+Emma Bates: 19
+Minnie Davidson: 19
+Mollie King: 19
+Julia Yoon: 20
+Nancy Norman: 20
+Clara Kendrick: 21
+Elsie Peterson: 21
+Sarah Ingles: 22
+Lena Dunn: 23
+Susie Nimly: 24
+Eliza Doolittle: 25
+Ella Lutz: 25
+Helen Harper: 25
+Blanche Jones: 26
+Fannie Jepson: 26
+Harriet Yi: 26
+Edith Arthur: 27
+Jennie Watts: 27
+Katie Andersen: 27
+Mabel Ulrich: 27
+Lucy Potts: 28
+Catherine Dudley: 33
+Ethel Jones: 33
+Mary Smith: 33
+Susan Royale: 33
+Alma Mater: 34
+Ruth Santiago: 36
+Nellie Quinn: 37
+Lydia Larson: 38
+May Rice: 38
+Flora Gogan: 39
+Mae Ulroy: 40
+Jane Greene: 42
+Lula Kravitz: 42
+Nannie Never: 44
+Annie Jackson: 49
+Anna Adams: 65
+
+top,10
+Lottie Parks: 13
+Carrie Statson: 17
+Sarah Ingles: 22
+Eliza Doolittle: 25
+Ella Lutz: 25
+Harriet Yi: 26
+Ethel Jones: 33
+Alma Mater: 34
+Ruth Santiago: 36
+Nellie Quinn: 37
+
+bottom,10
+Bessie van Ophem: 2
+Nora Simpson: 2
+Hannah Moss: 3
+Jessie Ivan: 3
+Pearl Potter: 3
+Amanda Darrell: 4
+Viola Davis: 4
+Etta O'Connor: 6
+Kate Moss: 7
+Daisy Train: 12
+
+numContestants
+78
+
+max
+Carrie Statson: 17
+
+put,Nora Simpson,1
+
+put,Nora Simpson,4
+
+put,Nora Simpson,2
+
+put,Hannah Moss,5
+
+put,Hannah Moss,2
+
+put,Ellen Hayes,6
+
+put,Alma Mater,4
+
+put,Ellen Hayes,3
+
+put,Hannah Moss,8
+
+put,Rose Christenson,2
+
+put,Hannah Moss,1
+
+put,Louise Johnson,4
+
+put,Nora Simpson,5
+
+put,Alma Mater,8
+
+put,Belle Hoosier,1
+
+put,Stella Rogers,1
+
+put,Ethel Jones,9
+
+put,Mollie King,8
+
+put,Clara Kendrick,5
+
+put,Mollie King,9
+
+put,Clara Kendrick,7
+
+put,Lottie Parks,10
+
+put,Belle Hoosier,10
+
+put,Stella Rogers,9
+
+put,Ethel Jones,4
+
+getScore,Mollie King
+36
+
+getRank,Louise Johnson
+11
+
+higherThan,100
+
+lowerThan,100
+Bessie van Ophem: 2
+Jessie Ivan: 3
+Pearl Potter: 3
+Amanda Darrell: 4
+Louise Johnson: 4
+Viola Davis: 4
+Maggie Damer: 5
+Etta O'Connor: 6
+Ida Frank: 6
+Rosa Yang: 6
+Edna Arvitz: 7
+Kate Moss: 7
+Margaret Ellis: 7
+Addie Eddison: 9
+Ellen Hayes: 9
+Maud Kant: 9
+Nettie House: 9
+Stella Rogers: 10
+Belle Hoosier: 11
+Florence Mann: 11
+Sadie Gonzalez: 11
+Daisy Train: 12
+Georgia Peach: 12
+Grace Roth: 12
+Della Thomas: 13
+Lizzie Quartz: 13
+Virginia Green: 13
+Cora Neilsen: 14
+Josephine Harrison: 14
+Lillie Giggs: 14
+Nora Simpson: 14
+Frances Nunn: 15
+Rebecca Charles: 15
+Alice George: 16
+Dora Morley: 16
+Elizabeth Carson: 16
+Mamie Hobson: 16
+Carrie Statson: 17
+Lillian Evans: 17
+Effie Quinley: 18
+Katherine Henderson: 18
+Mattie Briggs: 18
+Emma Bates: 19
+Hannah Moss: 19
+Minnie Davidson: 19
+Julia Yoon: 20
+Nancy Norman: 20
+Rose Christenson: 20
+Elsie Peterson: 21
+Sarah Ingles: 22
+Lena Dunn: 23
+Lottie Parks: 23
+Susie Nimly: 24
+Eliza Doolittle: 25
+Ella Lutz: 25
+Helen Harper: 25
+Blanche Jones: 26
+Fannie Jepson: 26
+Harriet Yi: 26
+Edith Arthur: 27
+Jennie Watts: 27
+Katie Andersen: 27
+Mabel Ulrich: 27
+Lucy Potts: 28
+Catherine Dudley: 33
+Clara Kendrick: 33
+Mary Smith: 33
+Susan Royale: 33
+Mollie King: 36
+Ruth Santiago: 36
+Nellie Quinn: 37
+Lydia Larson: 38
+May Rice: 38
+Flora Gogan: 39
+Mae Ulroy: 40
+Jane Greene: 42
+Lula Kravitz: 42
+Nannie Never: 44
+Alma Mater: 46
+Ethel Jones: 46
+Annie Jackson: 49
+Anna Adams: 65
+
+top,10
+Josephine Harrison: 14
+Nora Simpson: 14
+Hannah Moss: 19
+Sarah Ingles: 22
+Eliza Doolittle: 25
+Harriet Yi: 26
+Clara Kendrick: 33
+Ruth Santiago: 36
+Alma Mater: 46
+Ethel Jones: 46
+
+bottom,10
+Bessie van Ophem: 2
+Jessie Ivan: 3
+Pearl Potter: 3
+Amanda Darrell: 4
+Louise Johnson: 4
+Viola Davis: 4
+Maggie Damer: 5
+Etta O'Connor: 6
+Ida Frank: 6
+Kate Moss: 7
+
+numContestants
+82
+
+max
+Ethel Jones: 46
+
+put,Lulu Moss,8
+
+put,Lulu Moss,10
+
+put,Lulu Moss,10
+
+put,Lillie Giggs,9
+
+put,Lillie Giggs,5
+
+put,Lillie Giggs,2
+
+put,Lillie Giggs,9
+
+put,Lillie Giggs,4
+
+put,Lulu Moss,7
+
+put,Lillie Giggs,1
+
+put,Lillie Giggs,10
+
+put,Frances Nunn,7
+
+put,Nora Simpson,2
+
+put,Bessie van Ophem,7
+
+put,Lulu Moss,7
+
+put,Hattie Zelinsky,5
+
+put,Nora Simpson,3
+
+put,Frances Nunn,5
+
+put,Lulu Moss,3
+
+put,Myrtle Lyle,6
+
+put,Virginia Green,6
+
+put,Clara Kendrick,9
+
+put,Virginia Green,5
+
+put,Lulu Moss,3
+
+put,Della Thomas,7
+
+getScore,Frances Nunn
+27
+
+getRank,Myrtle Lyle
+12
+
+higherThan,100
+
+lowerThan,100
+Jessie Ivan: 3
+Pearl Potter: 3
+Amanda Darrell: 4
+Louise Johnson: 4
+Viola Davis: 4
+Hattie Zelinsky: 5
+Maggie Damer: 5
+Etta O'Connor: 6
+Ida Frank: 6
+Myrtle Lyle: 6
+Rosa Yang: 6
+Edna Arvitz: 7
+Kate Moss: 7
+Margaret Ellis: 7
+Addie Eddison: 9
+Bessie van Ophem: 9
+Ellen Hayes: 9
+Maud Kant: 9
+Nettie House: 9
+Stella Rogers: 10
+Belle Hoosier: 11
+Florence Mann: 11
+Sadie Gonzalez: 11
+Daisy Train: 12
+Georgia Peach: 12
+Grace Roth: 12
+Lizzie Quartz: 13
+Cora Neilsen: 14
+Josephine Harrison: 14
+Rebecca Charles: 15
+Alice George: 16
+Dora Morley: 16
+Elizabeth Carson: 16
+Mamie Hobson: 16
+Carrie Statson: 17
+Lillian Evans: 17
+Effie Quinley: 18
+Katherine Henderson: 18
+Mattie Briggs: 18
+Emma Bates: 19
+Hannah Moss: 19
+Minnie Davidson: 19
+Nora Simpson: 19
+Della Thomas: 20
+Julia Yoon: 20
+Nancy Norman: 20
+Rose Christenson: 20
+Elsie Peterson: 21
+Sarah Ingles: 22
+Lena Dunn: 23
+Lottie Parks: 23
+Susie Nimly: 24
+Virginia Green: 24
+Eliza Doolittle: 25
+Ella Lutz: 25
+Helen Harper: 25
+Blanche Jones: 26
+Fannie Jepson: 26
+Harriet Yi: 26
+Edith Arthur: 27
+Frances Nunn: 27
+Jennie Watts: 27
+Katie Andersen: 27
+Mabel Ulrich: 27
+Lucy Potts: 28
+Catherine Dudley: 33
+Mary Smith: 33
+Susan Royale: 33
+Mollie King: 36
+Ruth Santiago: 36
+Nellie Quinn: 37
+Lydia Larson: 38
+May Rice: 38
+Flora Gogan: 39
+Mae Ulroy: 40
+Clara Kendrick: 42
+Jane Greene: 42
+Lula Kravitz: 42
+Nannie Never: 44
+Alma Mater: 46
+Ethel Jones: 46
+Lulu Moss: 48
+Annie Jackson: 49
+Lillie Giggs: 54
+Anna Adams: 65
+
+top,10
+Josephine Harrison: 14
+Hannah Moss: 19
+Nora Simpson: 19
+Della Thomas: 20
+Sarah Ingles: 22
+Virginia Green: 24
+Eliza Doolittle: 25
+Frances Nunn: 27
+Alma Mater: 46
+Ethel Jones: 46
+
+bottom,10
+Jessie Ivan: 3
+Pearl Potter: 3
+Amanda Darrell: 4
+Louise Johnson: 4
+Viola Davis: 4
+Hattie Zelinsky: 5
+Maggie Damer: 5
+Etta O'Connor: 6
+Ida Frank: 6
+Georgia Peach: 12
+
+numContestants
+85
+
+max
+Della Thomas: 20
+
+put,Etta O'Connor,2
+
+put,Etta O'Connor,9
+
+put,Alma Mater,6
+
+put,Alma Mater,10
+
+put,Alma Mater,8
+
+put,Alma Mater,10
+
+put,Etta O'Connor,1
+
+put,Mattie Briggs,9
+
+put,Alma Mater,4
+
+put,Etta O'Connor,2
+
+put,Mattie Briggs,7
+
+put,Alma Mater,3
+
+put,Alma Mater,6
+
+put,Mattie Briggs,7
+
+put,Etta O'Connor,10
+
+put,Nettie House,8
+
+put,Alma Mater,5
+
+put,Susie Nimly,6
+
+put,Susie Nimly,8
+
+put,Alma Mater,8
+
+put,Charlotte Cannon,2
+
+put,Nettie House,10
+
+put,Nettie House,6
+
+put,Maude Turk,4
+
+put,Maud Kant,5
+
+getScore,Susie Nimly
+38
+
+getRank,Etta O'Connor
+3
+
+higherThan,100
+
+lowerThan,100
+Charlotte Cannon: 2
+Jessie Ivan: 3
+Pearl Potter: 3
+Amanda Darrell: 4
+Louise Johnson: 4
+Maude Turk: 4
+Viola Davis: 4
+Hattie Zelinsky: 5
+Maggie Damer: 5
+Ida Frank: 6
+Myrtle Lyle: 6
+Rosa Yang: 6
+Edna Arvitz: 7
+Kate Moss: 7
+Margaret Ellis: 7
+Addie Eddison: 9
+Bessie van Ophem: 9
+Ellen Hayes: 9
+Stella Rogers: 10
+Belle Hoosier: 11
+Florence Mann: 11
+Sadie Gonzalez: 11
+Daisy Train: 12
+Georgia Peach: 12
+Grace Roth: 12
+Lizzie Quartz: 13
+Cora Neilsen: 14
+Josephine Harrison: 14
+Rebecca Charles: 15
+Alice George: 16
+Dora Morley: 16
+Elizabeth Carson: 16
+Mamie Hobson: 16
+Carrie Statson: 17
+Lillian Evans: 17
+Effie Quinley: 18
+Katherine Henderson: 18
+Emma Bates: 19
+Hannah Moss: 19
+Minnie Davidson: 19
+Nora Simpson: 19
+Della Thomas: 20
+Julia Yoon: 20
+Nancy Norman: 20
+Rose Christenson: 20
+Elsie Peterson: 21
+Sarah Ingles: 22
+Lena Dunn: 23
+Lottie Parks: 23
+Virginia Green: 24
+Eliza Doolittle: 25
+Ella Lutz: 25
+Helen Harper: 25
+Blanche Jones: 26
+Fannie Jepson: 26
+Harriet Yi: 26
+Edith Arthur: 27
+Frances Nunn: 27
+Jennie Watts: 27
+Katie Andersen: 27
+Mabel Ulrich: 27
+Lucy Potts: 28
+Etta O'Connor: 30
+Catherine Dudley: 33
+Mary Smith: 33
+Susan Royale: 33
+Mollie King: 36
+Ruth Santiago: 36
+Nellie Quinn: 37
+Lydia Larson: 38
+May Rice: 38
+Susie Nimly: 38
+Flora Gogan: 39
+Mae Ulroy: 40
+Mattie Briggs: 41
+Clara Kendrick: 42
+Jane Greene: 42
+Lula Kravitz: 42
+Nannie Never: 44
+Ethel Jones: 46
+Lulu Moss: 48
+Annie Jackson: 49
+Lillie Giggs: 54
+Anna Adams: 65
+
+top,10
+Josephine Harrison: 14
+Maud Kant: 14
+Hannah Moss: 19
+Nora Simpson: 19
+Virginia Green: 24
+Frances Nunn: 27
+Nettie House: 33
+Mattie Briggs: 41
+Ethel Jones: 46
+Alma Mater: 106
+
+bottom,10
+Charlotte Cannon: 2
+Jessie Ivan: 3
+Pearl Potter: 3
+Amanda Darrell: 4
+Louise Johnson: 4
+Viola Davis: 4
+Maggie Damer: 5
+Ida Frank: 6
+Edna Arvitz: 7
+Georgia Peach: 12
+
+numContestants
+87
+
+max
+Maud Kant: 14
+
+put,Sallie Peters,7
+
+put,Sallie Peters,9
+
+put,Marie Gregg,2
+
+put,Marie Gregg,5
+
+put,Bessie van Ophem,4
+
+put,Sallie Peters,1
+
+put,Ruth Santiago,9
+
+put,Bessie van Ophem,4
+
+put,Ruth Santiago,3
+
+put,Kate Moss,1
+
+put,Bessie van Ophem,8
+
+put,Amanda Darrell,2
+
+put,Carrie Statson,10
+
+put,Myrtle Lyle,3
+
+put,Flora Gogan,6
+
+put,Flora Gogan,10
+
+put,Rebecca Charles,1
+
+put,Emily Lincoln,10
+
+put,Edna Arvitz,6
+
+put,Flora Gogan,8
+
+put,Rebecca Charles,4
+
+put,Etta O'Connor,5
+
+put,Ella Lutz,7
+
+put,Lizzie Quartz,7
+
+put,Kate Moss,5
+
+getScore,Ruth Santiago
+48
+
+getRank,Lizzie Quartz
+3
+
+higherThan,100
+
+lowerThan,100
+Charlotte Cannon: 2
+Jessie Ivan: 3
+Pearl Potter: 3
+Louise Johnson: 4
+Maude Turk: 4
+Viola Davis: 4
+Hattie Zelinsky: 5
+Maggie Damer: 5
+Amanda Darrell: 6
+Ida Frank: 6
+Rosa Yang: 6
+Margaret Ellis: 7
+Marie Gregg: 7
+Addie Eddison: 9
+Ellen Hayes: 9
+Myrtle Lyle: 9
+Emily Lincoln: 10
+Stella Rogers: 10
+Belle Hoosier: 11
+Florence Mann: 11
+Sadie Gonzalez: 11
+Daisy Train: 12
+Georgia Peach: 12
+Grace Roth: 12
+Edna Arvitz: 13
+Cora Neilsen: 14
+Josephine Harrison: 14
+Alice George: 16
+Dora Morley: 16
+Elizabeth Carson: 16
+Mamie Hobson: 16
+Lillian Evans: 17
+Sallie Peters: 17
+Effie Quinley: 18
+Katherine Henderson: 18
+Emma Bates: 19
+Hannah Moss: 19
+Minnie Davidson: 19
+Nora Simpson: 19
+Della Thomas: 20
+Julia Yoon: 20
+Lizzie Quartz: 20
+Nancy Norman: 20
+Rebecca Charles: 20
+Rose Christenson: 20
+Elsie Peterson: 21
+Sarah Ingles: 22
+Lena Dunn: 23
+Lottie Parks: 23
+Virginia Green: 24
+Bessie van Ophem: 25
+Eliza Doolittle: 25
+Helen Harper: 25
+Blanche Jones: 26
+Fannie Jepson: 26
+Harriet Yi: 26
+Carrie Statson: 27
+Edith Arthur: 27
+Frances Nunn: 27
+Jennie Watts: 27
+Mabel Ulrich: 27
+Lucy Potts: 28
+Ella Lutz: 32
+Catherine Dudley: 33
+Mary Smith: 33
+Susan Royale: 33
+Etta O'Connor: 35
+Mollie King: 36
+Nellie Quinn: 37
+Lydia Larson: 38
+May Rice: 38
+Susie Nimly: 38
+Mae Ulroy: 40
+Mattie Briggs: 41
+Clara Kendrick: 42
+Jane Greene: 42
+Lula Kravitz: 42
+Nannie Never: 44
+Ethel Jones: 46
+Lulu Moss: 48
+Ruth Santiago: 48
+Annie Jackson: 49
+Lillie Giggs: 54
+Anna Adams: 65
+
+top,10
+Kate Moss: 13
+Josephine Harrison: 14
+Maud Kant: 14
+Frances Nunn: 27
+Katie Andersen: 27
+Nettie House: 33
+Ethel Jones: 46
+Ruth Santiago: 48
+Flora Gogan: 63
+Alma Mater: 106
+
+bottom,10
+Charlotte Cannon: 2
+Jessie Ivan: 3
+Pearl Potter: 3
+Louise Johnson: 4
+Viola Davis: 4
+Maggie Damer: 5
+Ida Frank: 6
+Sadie Gonzalez: 11
+Georgia Peach: 12
+Dora Morley: 16
+
+numContestants
+90
+
+max
+Kate Moss: 13

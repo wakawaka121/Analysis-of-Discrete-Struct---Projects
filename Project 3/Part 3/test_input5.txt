@@ -1,0 +1,512 @@
+put,Lydia Larson,10
+put,Mabel Ulrich,3
+put,Julia Yoon,3
+put,Julia Yoon,10
+put,Lydia Larson,2
+put,Elizabeth Carson,2
+put,Helen Harper,2
+put,Lydia Larson,7
+put,Lydia Larson,9
+put,Elizabeth Carson,9
+put,Elizabeth Carson,5
+put,Mabel Ulrich,2
+put,Jane Greene,5
+put,Jane Greene,4
+put,Amanda Darrell,3
+put,Harriet Yi,7
+put,Julia Yoon,5
+put,Jane Greene,5
+put,Harriet Yi,10
+put,Fannie Jepson,5
+put,Rebecca Charles,7
+put,Jane Greene,6
+put,May Rice,8
+put,Fannie Jepson,2
+put,Alice George,10
+getScore,Lydia Larson
+getRank,Lydia Larson
+higherThan,10
+lowerThan,10
+top,3
+bottom,2
+numContestants
+max
+put,Annie Jackson,5
+put,Annie Jackson,4
+put,Fannie Jepson,6
+put,Minnie Davidson,5
+put,Annie Jackson,9
+put,Nellie Quinn,5
+put,Nellie Quinn,9
+put,Annie Jackson,9
+put,Annie Jackson,7
+put,Nellie Quinn,7
+put,Fannie Jepson,8
+put,Minnie Davidson,7
+put,Jane Greene,9
+put,Nellie Quinn,1
+put,Kate Moss,7
+put,Annie Jackson,9
+put,Josephine Harrison,2
+put,Harriet Yi,6
+put,Nettie House,1
+put,Nellie Quinn,9
+put,Minnie Davidson,4
+put,Harriet Yi,3
+put,Jane Greene,6
+put,Josephine Harrison,5
+put,Flora Gogan,10
+put,May Rice,4
+put,May Rice,6
+put,May Rice,5
+put,Eliza Doolittle,1
+put,Eliza Doolittle,3
+put,Susie Nimly,8
+put,Susie Nimly,8
+put,Mae Ulroy,10
+put,Ella Lutz,6
+put,Mae Ulroy,2
+put,Mae Ulroy,4
+put,Nancy Norman,1
+put,May Rice,10
+put,Amanda Darrell,1
+put,Nancy Norman,3
+put,Mae Ulroy,4
+put,Mae Ulroy,1
+put,Mae Ulroy,3
+put,Clara Kendrick,5
+put,Eliza Doolittle,4
+put,Nancy Norman,8
+put,Hannah Moss,3
+put,Jennie Watts,10
+put,Clara Kendrick,6
+put,Virginia Green,9
+getScore,Eliza Doolittle
+getRank,Nancy Norman
+higherThan,15
+lowerThan,15
+top,5
+bottom,5
+numContestants
+max
+put,Ethel Jones,8
+put,Anna Adams,8
+put,Ethel Jones,4
+put,Ethel Jones,1
+put,Anna Adams,4
+put,Lena Dunn,10
+put,Anna Adams,9
+put,Ethel Jones,6
+put,Lena Dunn,5
+put,Lena Dunn,3
+put,Jane Greene,3
+put,Blanche Jones,6
+put,Lena Dunn,5
+put,Jennie Watts,4
+put,Anna Adams,6
+put,Susan Royale,10
+put,Susan Royale,7
+put,Blanche Jones,7
+put,Blanche Jones,9
+put,Maggie Damer,5
+put,Jane Greene,4
+put,Florence Mann,4
+put,Susie Nimly,4
+put,Blanche Jones,4
+put,Susie Nimly,3
+getScore,Susie Nimly
+getRank,Susie Nimly
+higherThan,20
+lowerThan,15
+top,7
+bottom,7
+numContestants
+max
+put,Ida Frank,6
+put,Carrie Statson,4
+put,Lula Kravitz,9
+put,Ruth Santiago,4
+put,Lula Kravitz,9
+put,Pearl Potter,3
+put,Lula Kravitz,4
+put,Sadie Gonzalez,4
+put,Sarah Ingles,3
+put,Katherine Henderson,7
+put,Edith Arthur,3
+put,Effie Quinley,10
+put,Lillie Giggs,8
+put,Georgia Peach,9
+put,Effie Quinley,3
+put,Georgia Peach,3
+put,Virginia Green,1
+put,Ruth Santiago,8
+put,Fannie Jepson,5
+put,Emma Bates,8
+put,Rose Christenson,3
+put,Lillie Giggs,6
+put,Rose Christenson,10
+put,Sadie Gonzalez,2
+put,Jessie Ivan,3
+getScore,Georgia Peach
+getRank,Lillie Giggs
+higherThan,50
+lowerThan,50
+top,10
+bottom,10
+numContestants
+max
+put,Mamie Hobson,3
+put,Mamie Hobson,4
+put,Josephine Harrison,1
+put,Ruth Santiago,3
+put,Ruth Santiago,4
+put,Josephine Harrison,5
+put,Ella Lutz,9
+put,Carrie Statson,4
+put,Mollie King,6
+put,Effie Quinley,5
+put,Ella Lutz,2
+put,Ella Lutz,4
+put,Cora Neilsen,9
+put,Ruth Santiago,7
+put,Margaret Ellis,5
+put,Josephine Harrison,1
+put,Rebecca Charles,1
+put,Helen Harper,6
+put,Edna Arvitz,3
+put,Edith Arthur,3
+put,Mollie King,3
+put,Lucy Potts,10
+put,Edith Arthur,2
+put,Edna Arvitz,4
+put,Maud Kant,5
+getScore,Lula Kravitz
+getRank,Ruth Santiago
+higherThan,75
+lowerThan,75
+top,10
+bottom,10
+numContestants
+max
+put,Flora Gogan,5
+put,Ethel Jones,9
+put,Ethel Jones,5
+put,Mabel Ulrich,6
+put,Flora Gogan,9
+put,Mattie Briggs,3
+put,Lucy Potts,1
+put,Jennie Watts,3
+put,Mattie Briggs,1
+put,Florence Mann,1
+put,Mattie Briggs,6
+put,Della Thomas,5
+put,Mattie Briggs,8
+put,Etta O'Connor,6
+put,Frances Nunn,4
+put,Edith Arthur,2
+put,Frances Nunn,8
+put,Flora Gogan,10
+put,Emma Bates,1
+put,Flora Gogan,4
+put,Jennie Watts,10
+put,Frances Nunn,3
+put,Della Thomas,8
+put,Mollie King,1
+put,Edith Arthur,3
+getScore,Mollie King
+getRank,Flora Gogan
+higherThan,100
+lowerThan,100
+top,10
+bottom,10
+numContestants
+max
+put,Katie Andersen,3
+put,Katie Andersen,6
+put,Katie Andersen,9
+put,Helen Harper,6
+put,Katie Andersen,9
+put,Alice George,6
+put,Katherine Henderson,8
+put,Helen Harper,2
+put,Mae Ulroy,5
+put,Sadie Gonzalez,5
+put,Mabel Ulrich,5
+put,Katherine Henderson,3
+put,Nettie House,8
+put,Dora Morley,8
+put,Mabel Ulrich,1
+put,Virginia Green,1
+put,Nannie Never,3
+put,Nannie Never,2
+put,Mabel Ulrich,2
+put,Nora Simpson,2
+put,Helen Harper,2
+put,Helen Harper,7
+put,Virginia Green,2
+put,Mabel Ulrich,8
+put,Flora Gogan,1
+getScore,Georgia Peach
+getRank,Lillie Giggs
+higherThan,50
+lowerThan,50
+top,10
+bottom,10
+numContestants
+max
+put,Catherine Dudley,7
+put,Catherine Dudley,10
+put,Lydia Larson,4
+put,Lydia Larson,1
+put,Catherine Dudley,3
+put,Lydia Larson,2
+put,Lula Kravitz,5
+put,Lula Kravitz,5
+put,Nannie Never,4
+put,Grace Roth,1
+put,Catherine Dudley,7
+put,Lydia Larson,3
+put,Nannie Never,10
+put,Addie Eddison,9
+put,Nannie Never,9
+put,Nannie Never,6
+put,Nannie Never,10
+put,Elsie Peterson,3
+put,Dora Morley,8
+put,Florence Mann,6
+put,Lula Kravitz,10
+put,Emma Bates,5
+put,May Rice,5
+put,Emma Bates,5
+put,Clara Kendrick,10
+getScore,Emma Bates
+getRank,Emma Bates
+higherThan,100
+lowerThan,100
+top,10
+bottom,10
+numContestants
+max
+put,Edith Arthur,8
+put,Catherine Dudley,2
+put,Edith Arthur,6
+put,Margaret Ellis,2
+put,Mamie Hobson,1
+put,Alma Mater,10
+put,Mamie Hobson,8
+put,Catherine Dudley,3
+put,Annie Jackson,6
+put,Alma Mater,9
+put,Susan Royale,7
+put,Alma Mater,6
+put,Lucy Potts,9
+put,Nellie Quinn,1
+put,Rose Christenson,5
+put,Lucy Potts,2
+put,Lucy Potts,6
+put,Catherine Dudley,1
+put,Grace Roth,4
+put,Mary Smith,5
+put,Grace Roth,7
+put,Nellie Quinn,5
+put,Bessie van Ophem,2
+put,Alma Mater,9
+put,Viola Davis,4
+getScore,Emma Bates
+getRank,Emma Bates
+higherThan,100
+lowerThan,100
+top,10
+bottom,10
+numContestants
+max
+put,Elsie Peterson,10
+put,Elsie Peterson,3
+put,Cora Neilsen,5
+put,Elsie Peterson,5
+put,Nancy Norman,3
+put,Ella Lutz,1
+put,Mae Ulroy,5
+put,Anna Adams,4
+put,Ella Lutz,3
+put,Mary Smith,4
+put,Lottie Parks,7
+put,Nancy Norman,2
+put,Anna Adams,9
+put,Mary Smith,8
+put,Eliza Doolittle,5
+put,Rebecca Charles,7
+put,Mollie King,9
+put,Nancy Norman,3
+put,Lottie Parks,6
+put,Mary Smith,7
+put,Mary Smith,2
+put,Ruth Santiago,10
+put,Rosa Yang,6
+put,Mae Ulroy,6
+put,Mary Smith,7
+put,Sarah Ingles,7
+put,Daisy Train,7
+put,Sarah Ingles,1
+put,Sarah Ingles,1
+put,Sarah Ingles,10
+put,Lillian Evans,4
+put,Daisy Train,2
+put,Lillian Evans,8
+put,Anna Adams,10
+put,Eliza Doolittle,4
+put,Lillian Evans,5
+put,Anna Adams,10
+put,Maud Kant,4
+put,Eliza Doolittle,8
+put,Lizzie Quartz,6
+put,Lizzie Quartz,5
+put,Minnie Davidson,3
+put,Daisy Train,3
+put,Susan Royale,9
+put,Carrie Statson,7
+put,Susie Nimly,1
+put,Anna Adams,5
+put,Julia Yoon,2
+put,Lizzie Quartz,2
+put,Carrie Statson,2
+getScore,Julia Yoon
+getRank,Julia Yoon
+higherThan,100
+lowerThan,100
+top,10
+bottom,10
+numContestants
+max
+put,Nora Simpson,1
+put,Nora Simpson,4
+put,Nora Simpson,2
+put,Hannah Moss,5
+put,Hannah Moss,2
+put,Ellen Hayes,6
+put,Alma Mater,4
+put,Ellen Hayes,3
+put,Hannah Moss,8
+put,Rose Christenson,2
+put,Hannah Moss,1
+put,Louise Johnson,4
+put,Nora Simpson,5
+put,Alma Mater,8
+put,Belle Hoosier,1
+put,Stella Rogers,1
+put,Ethel Jones,9
+put,Mollie King,8
+put,Clara Kendrick,5
+put,Mollie King,9
+put,Clara Kendrick,7
+put,Lottie Parks,10
+put,Belle Hoosier,10
+put,Stella Rogers,9
+put,Ethel Jones,4
+getScore,Mollie King
+getRank,Louise Johnson
+higherThan,100
+lowerThan,100
+top,10
+bottom,10
+numContestants
+max
+put,Lulu Moss,8
+put,Lulu Moss,10
+put,Lulu Moss,10
+put,Lillie Giggs,9
+put,Lillie Giggs,5
+put,Lillie Giggs,2
+put,Lillie Giggs,9
+put,Lillie Giggs,4
+put,Lulu Moss,7
+put,Lillie Giggs,1
+put,Lillie Giggs,10
+put,Frances Nunn,7
+put,Nora Simpson,2
+put,Bessie van Ophem,7
+put,Lulu Moss,7
+put,Hattie Zelinsky,5
+put,Nora Simpson,3
+put,Frances Nunn,5
+put,Lulu Moss,3
+put,Myrtle Lyle,6
+put,Virginia Green,6
+put,Clara Kendrick,9
+put,Virginia Green,5
+put,Lulu Moss,3
+put,Della Thomas,7
+getScore,Frances Nunn
+getRank,Myrtle Lyle
+higherThan,100
+lowerThan,100
+top,10
+bottom,10
+numContestants
+max
+put,Etta O'Connor,2
+put,Etta O'Connor,9
+put,Alma Mater,6
+put,Alma Mater,10
+put,Alma Mater,8
+put,Alma Mater,10
+put,Etta O'Connor,1
+put,Mattie Briggs,9
+put,Alma Mater,4
+put,Etta O'Connor,2
+put,Mattie Briggs,7
+put,Alma Mater,3
+put,Alma Mater,6
+put,Mattie Briggs,7
+put,Etta O'Connor,10
+put,Nettie House,8
+put,Alma Mater,5
+put,Susie Nimly,6
+put,Susie Nimly,8
+put,Alma Mater,8
+put,Charlotte Cannon,2
+put,Nettie House,10
+put,Nettie House,6
+put,Maude Turk,4
+put,Maud Kant,5
+getScore,Susie Nimly
+getRank,Etta O'Connor
+higherThan,100
+lowerThan,100
+top,10
+bottom,10
+numContestants
+max
+put,Sallie Peters,7
+put,Sallie Peters,9
+put,Marie Gregg,2
+put,Marie Gregg,5
+put,Bessie van Ophem,4
+put,Sallie Peters,1
+put,Ruth Santiago,9
+put,Bessie van Ophem,4
+put,Ruth Santiago,3
+put,Kate Moss,1
+put,Bessie van Ophem,8
+put,Amanda Darrell,2
+put,Carrie Statson,10
+put,Myrtle Lyle,3
+put,Flora Gogan,6
+put,Flora Gogan,10
+put,Rebecca Charles,1
+put,Emily Lincoln,10
+put,Edna Arvitz,6
+put,Flora Gogan,8
+put,Rebecca Charles,4
+put,Etta O'Connor,5
+put,Ella Lutz,7
+put,Lizzie Quartz,7
+put,Kate Moss,5
+getScore,Ruth Santiago
+getRank,Lizzie Quartz
+higherThan,100
+lowerThan,100
+top,10
+bottom,10
+numContestants
+max

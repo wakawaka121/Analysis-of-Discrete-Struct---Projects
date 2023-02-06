@@ -1,0 +1,429 @@
+
+put,Emma Bates,3
+
+put,Emma Bates,4
+
+put,Emma Bates,4
+
+put,Emma Bates,8
+
+put,Bertha Harris,10
+
+put,Anna Adams,7
+
+put,Emma Bates,3
+
+put,Grace Roth,5
+
+put,Emma Bates,1
+
+put,Bertha Harris,6
+
+getScore,Emma Bates
+23
+
+getRank,Grace Roth
+4
+
+higherThan,5
+Grace Roth: 5
+Anna Adams: 7
+Bertha Harris: 16
+Emma Bates: 23
+
+lowerThan,7
+Grace Roth: 5
+Anna Adams: 7
+
+top,2
+Bertha Harris: 16
+Emma Bates: 23
+
+bottom,2
+Grace Roth: 5
+Anna Adams: 7
+
+numContestants
+4
+
+max
+Bertha Harris: 16
+
+get,2
+Emma Bates: 23
+
+put,Annie Jackson,1
+
+put,Annie Jackson,6
+
+put,Annie Jackson,7
+
+put,Bessie van Ophem,3
+
+put,Bessie van Ophem,5
+
+put,Bessie van Ophem,2
+
+put,Annie Jackson,10
+
+put,Bessie van Ophem,6
+
+put,Annie Jackson,6
+
+put,Grace Roth,10
+
+getScore,Annie Jackson
+30
+
+getRank,Grace Roth
+2
+
+higherThan,10
+Grace Roth: 15
+Bertha Harris: 16
+Bessie van Ophem: 16
+Emma Bates: 23
+Annie Jackson: 30
+
+lowerThan,12
+Anna Adams: 7
+
+top,3
+Bessie van Ophem: 16
+Emma Bates: 23
+Annie Jackson: 30
+
+bottom,3
+Anna Adams: 7
+Grace Roth: 15
+Bertha Harris: 16
+
+numContestants
+6
+
+max
+Bessie van Ophem: 16
+
+get,4
+
+put,Annie Jackson,1
+
+put,Elizabeth Carson,1
+
+put,Annie Jackson,3
+
+put,Annie Jackson,4
+
+put,Annie Jackson,7
+
+put,Elizabeth Carson,2
+
+put,Annie Jackson,2
+
+put,Annie Jackson,8
+
+put,Ella Lutz,7
+
+put,Cora Neilsen,2
+
+put,Laura Paquin,5
+
+put,Maude Turk,4
+
+put,Maude Turk,8
+
+put,Sarah Ingles,4
+
+put,Emma Bates,7
+
+put,Alice George,6
+
+put,Cora Neilsen,5
+
+put,Emma Bates,8
+
+put,Maude Turk,7
+
+put,Sarah Ingles,6
+
+getScore,Annie Jackson
+55
+
+getRank,Sarah Ingles
+1
+
+higherThan,15
+
+lowerThan,13
+Elizabeth Carson: 3
+Laura Paquin: 5
+Alice George: 6
+Anna Adams: 7
+Cora Neilsen: 7
+Ella Lutz: 7
+
+top,4
+Sarah Ingles: 10
+Grace Roth: 15
+Maude Turk: 19
+Emma Bates: 38
+
+bottom,4
+Elizabeth Carson: 3
+Laura Paquin: 5
+Alice George: 6
+Ella Lutz: 7
+
+numContestants
+13
+
+max
+Sarah Ingles: 10
+
+get,3
+
+put,Gertrude Xavier,3
+
+put,Emma Bates,6
+
+put,Gertrude Xavier,9
+
+put,Emma Bates,3
+
+put,Emma Bates,5
+
+put,Mabel Ulrich,8
+
+put,Bertha Harris,3
+
+put,Sarah Ingles,5
+
+put,Elizabeth Carson,2
+
+put,Nellie Quinn,5
+
+put,Carrie Statson,7
+
+put,Carrie Statson,5
+
+put,Cora Neilsen,8
+
+put,Cora Neilsen,5
+
+put,Ida Frank,7
+
+put,Carrie Statson,1
+
+put,Minnie Davidson,4
+
+put,Annie Jackson,7
+
+put,Annie Jackson,9
+
+put,Anna Adams,1
+
+getScore,Emma Bates
+52
+
+getRank,Emma Bates
+5
+
+higherThan,25
+
+lowerThan,25
+Minnie Davidson: 4
+Elizabeth Carson: 5
+Laura Paquin: 5
+Nellie Quinn: 5
+Alice George: 6
+Ella Lutz: 7
+Ida Frank: 7
+Anna Adams: 8
+Gertrude Xavier: 12
+Grace Roth: 15
+Sarah Ingles: 15
+Bertha Harris: 19
+Maude Turk: 19
+
+top,5
+Mabel Ulrich: 8
+Carrie Statson: 13
+Bessie van Ophem: 16
+Cora Neilsen: 20
+Annie Jackson: 71
+
+bottom,5
+Minnie Davidson: 4
+Elizabeth Carson: 5
+Laura Paquin: 5
+Nellie Quinn: 5
+Ida Frank: 7
+
+numContestants
+19
+
+max
+Carrie Statson: 13
+
+put,Mary Smith,1
+
+put,Mary Smith,10
+
+put,Bertha Harris,9
+
+put,Laura Paquin,7
+
+put,Jennie Watts,7
+
+put,Grace Roth,4
+
+put,Mabel Ulrich,7
+
+put,Laura Paquin,5
+
+put,Gertrude Xavier,1
+
+put,Jennie Watts,5
+
+put,Bessie van Ophem,9
+
+put,Bessie van Ophem,10
+
+put,Bessie van Ophem,4
+
+put,Emma Bates,4
+
+put,Emma Bates,10
+
+put,Grace Roth,4
+
+put,Maude Turk,5
+
+put,Maude Turk,8
+
+put,Emma Bates,6
+
+put,Cora Neilsen,8
+
+getScore,Gertrude Xavier
+13
+
+getRank,Bessie van Ophem
+4
+
+higherThan,50
+
+lowerThan,50
+Minnie Davidson: 4
+Elizabeth Carson: 5
+Nellie Quinn: 5
+Alice George: 6
+Ella Lutz: 7
+Ida Frank: 7
+Anna Adams: 8
+Mary Smith: 11
+Jennie Watts: 12
+Gertrude Xavier: 13
+Sarah Ingles: 15
+Laura Paquin: 17
+Grace Roth: 23
+Bertha Harris: 28
+Maude Turk: 32
+Bessie van Ophem: 39
+
+top,10
+Carrie Statson: 13
+Gertrude Xavier: 13
+Mabel Ulrich: 15
+Laura Paquin: 17
+Grace Roth: 23
+Cora Neilsen: 28
+Maude Turk: 32
+Bessie van Ophem: 39
+Annie Jackson: 71
+Emma Bates: 72
+
+bottom,10
+Minnie Davidson: 4
+Elizabeth Carson: 5
+Nellie Quinn: 5
+Alice George: 6
+Ella Lutz: 7
+Ida Frank: 7
+Anna Adams: 8
+Jennie Watts: 12
+Sarah Ingles: 15
+Bertha Harris: 28
+
+numContestants
+21
+
+put,Mabel Ulrich,3
+
+put,Mabel Ulrich,8
+
+put,Emma Bates,10
+
+put,Emma Bates,6
+
+put,Mabel Ulrich,3
+
+put,Bessie van Ophem,9
+
+put,Cora Neilsen,10
+
+put,Annie Jackson,2
+
+put,Laura Paquin,3
+
+getScore,Bessie van Ophem
+48
+
+getRank,Mabel Ulrich
+3
+
+higherThan,15
+Laura Paquin: 20
+Bessie van Ophem: 48
+
+lowerThan,75
+Minnie Davidson: 4
+Elizabeth Carson: 5
+Nellie Quinn: 5
+Alice George: 6
+Ella Lutz: 7
+Ida Frank: 7
+Anna Adams: 8
+Mary Smith: 11
+Jennie Watts: 12
+Gertrude Xavier: 13
+Sarah Ingles: 15
+Grace Roth: 23
+Bertha Harris: 28
+Mabel Ulrich: 29
+Maude Turk: 32
+Annie Jackson: 73
+
+top,7
+Carrie Statson: 13
+Gertrude Xavier: 13
+Laura Paquin: 20
+Maude Turk: 32
+Cora Neilsen: 38
+Bessie van Ophem: 48
+Emma Bates: 88
+
+bottom,7
+Minnie Davidson: 4
+Elizabeth Carson: 5
+Nellie Quinn: 5
+Alice George: 6
+Ida Frank: 7
+Sarah Ingles: 15
+Bertha Harris: 28
+
+numContestants
+21
+
+max
+Laura Paquin: 20

@@ -1,0 +1,58 @@
+put,Cora Neilsen,9
+put,Cora Neilsen,10
+put,Cora Neilsen,6
+put,Cora Neilsen,4
+put,Cora Neilsen,6
+put,Cora Neilsen,8
+put,Cora Neilsen,1
+put,Gertrude Xavier,8
+put,Gertrude Xavier,10
+put,Gertrude Xavier,1
+put,Gertrude Xavier,10
+put,Cora Neilsen,3
+put,Anna Adams,5
+put,Anna Adams,6
+put,Alice George,9
+put,Ida Frank,1
+put,Florence Mann,1
+put,Maude Turk,6
+put,Maude Turk,3
+put,Bessie van Ophem,6
+put,Bessie van Ophem,8
+put,Bessie van Ophem,7
+put,Elizabeth Carson,2
+put,Cora Neilsen,2
+put,Carrie Statson,1
+put,Carrie Statson,7
+numContestants
+get,19
+bottom,5
+getScore,Grace Roth
+get,1
+getRank,Maude Turk
+bottom,23
+lowerThan,41
+getScore,Cora Neilsen
+bottom,3
+numContestants
+top,3
+max
+higherThan,44
+top,13
+getRank,Ella Lutz
+lowerThan,65
+lowerThan,7
+getScore,Bessie van Ophem
+higherThan,6
+put,Anna Adams,7
+getScore,Annie Jackson
+higherThan,100
+getScore,Carrie Statson
+getRank,Carrie Statson
+higherThan,10
+lowerThan,10
+top,5
+bottom,5
+numContestants
+max
+get,3

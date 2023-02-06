@@ -1,0 +1,206 @@
+
+put,Cora Neilsen,9
+
+put,Cora Neilsen,10
+
+put,Cora Neilsen,6
+
+put,Cora Neilsen,4
+
+put,Cora Neilsen,6
+
+put,Cora Neilsen,8
+
+put,Cora Neilsen,1
+
+put,Gertrude Xavier,8
+
+put,Gertrude Xavier,10
+
+put,Gertrude Xavier,1
+
+put,Gertrude Xavier,10
+
+put,Cora Neilsen,3
+
+put,Anna Adams,5
+
+put,Anna Adams,6
+
+put,Alice George,9
+
+put,Ida Frank,1
+
+put,Florence Mann,1
+
+put,Maude Turk,6
+
+put,Maude Turk,3
+
+put,Bessie van Ophem,6
+
+put,Bessie van Ophem,8
+
+put,Bessie van Ophem,7
+
+put,Elizabeth Carson,2
+
+put,Cora Neilsen,2
+
+put,Carrie Statson,1
+
+put,Carrie Statson,7
+
+numContestants
+10
+
+get,19
+
+bottom,5
+Florence Mann: 1
+Ida Frank: 1
+Elizabeth Carson: 2
+Carrie Statson: 8
+Alice George: 9
+
+getScore,Grace Roth
+-1
+
+get,1
+
+getRank,Maude Turk
+4
+
+bottom,23
+Florence Mann: 1
+Ida Frank: 1
+Elizabeth Carson: 2
+Carrie Statson: 8
+Alice George: 9
+Maude Turk: 9
+Anna Adams: 11
+Bessie van Ophem: 21
+Gertrude Xavier: 29
+Cora Neilsen: 49
+
+lowerThan,41
+Florence Mann: 1
+Ida Frank: 1
+Elizabeth Carson: 2
+Carrie Statson: 8
+Alice George: 9
+Maude Turk: 9
+Bessie van Ophem: 21
+Gertrude Xavier: 29
+
+getScore,Cora Neilsen
+49
+
+bottom,3
+Florence Mann: 1
+Ida Frank: 1
+Elizabeth Carson: 2
+
+numContestants
+10
+
+top,3
+Anna Adams: 11
+Bessie van Ophem: 21
+Cora Neilsen: 49
+
+max
+Anna Adams: 11
+
+higherThan,44
+
+top,13
+Florence Mann: 1
+Ida Frank: 1
+Elizabeth Carson: 2
+Carrie Statson: 8
+Alice George: 9
+Maude Turk: 9
+Anna Adams: 11
+Bessie van Ophem: 21
+Gertrude Xavier: 29
+Cora Neilsen: 49
+
+getRank,Ella Lutz
+-1
+
+lowerThan,65
+Florence Mann: 1
+Ida Frank: 1
+Elizabeth Carson: 2
+Carrie Statson: 8
+Alice George: 9
+Maude Turk: 9
+Anna Adams: 11
+Bessie van Ophem: 21
+Gertrude Xavier: 29
+Cora Neilsen: 49
+
+lowerThan,7
+Florence Mann: 1
+Ida Frank: 1
+Elizabeth Carson: 2
+
+getScore,Bessie van Ophem
+21
+
+higherThan,6
+Carrie Statson: 8
+Alice George: 9
+Maude Turk: 9
+Anna Adams: 11
+Bessie van Ophem: 21
+Gertrude Xavier: 29
+Cora Neilsen: 49
+
+put,Anna Adams,7
+
+getScore,Annie Jackson
+-1
+
+higherThan,100
+
+getScore,Carrie Statson
+8
+
+getRank,Carrie Statson
+6
+
+higherThan,10
+Anna Adams: 18
+Bessie van Ophem: 21
+Cora Neilsen: 49
+
+lowerThan,10
+Florence Mann: 1
+Ida Frank: 1
+Elizabeth Carson: 2
+Carrie Statson: 8
+Alice George: 9
+
+top,5
+Maude Turk: 9
+Anna Adams: 18
+Bessie van Ophem: 21
+Gertrude Xavier: 29
+Cora Neilsen: 49
+
+bottom,5
+Florence Mann: 1
+Ida Frank: 1
+Elizabeth Carson: 2
+Carrie Statson: 8
+Alice George: 9
+
+numContestants
+10
+
+max
+Anna Adams: 18
+
+get,3
